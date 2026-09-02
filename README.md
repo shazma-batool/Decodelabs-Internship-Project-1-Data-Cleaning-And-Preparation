@@ -87,13 +87,16 @@ Complete records were also checked for duplicates, with no duplicate records ide
 The Excel workbook contains three worksheets:
 
 * **RAW DATA** — Original dataset before cleaning
-<img width="1919" height="1007" alt="Raw Data" src="https://github.com/user-attachments/assets/21af8672-b12d-4b60-8e72-e6517bb19526" />
+<img width="1919" height="1007" alt="Raw Data" src="https://github.com/user-attachments/assets/83ad900a-7448-40ee-9cd9-f6219d8b923b" />
+
 
 * **CLEANED DATA** — Processed and standardized dataset
-<img width="1919" height="1004" alt="Cleaned Data" src="https://github.com/user-attachments/assets/a5c41011-495f-4f61-818f-3bb5103339a1" />
+<img width="1919" height="1004" alt="Cleaned Data" src="https://github.com/user-attachments/assets/d8453afa-cc49-453d-b95e-e7f11cec5868" />
+
 
 * **CHANGE LOG** — Documentation of cleaning and validation activities
-<img width="1531" height="323" alt="Change Log" src="https://github.com/user-attachments/assets/46822f8e-45fc-4bbf-895a-bb0c5107a75e" />
+<img width="1531" height="323" alt="Change Log" src="https://github.com/user-attachments/assets/961a553a-f4a4-4be0-962d-6eb411c438fe" />
+
 
 ```
 
